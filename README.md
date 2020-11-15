@@ -1,1 +1,1 @@
-# MINI-PROJECT
+This is a Mini Project in which I used image classification based on machine learning.I put 3 different sets of images(30 each) in the machine learning model and split it into  training and testing data and then  train and test the model.After that I applied Support Vector Machine Algorithm using Grid Search CV to correctly predict the output for a new page using the model
